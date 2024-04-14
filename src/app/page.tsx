@@ -108,6 +108,9 @@ export default function Home() {
           </p>
         </a>
       </div>
+      {/* <div>
+        <p>Click <a href="">Here</a> to ${emailType ==="VERIFY"?"Verify your email":"Reset your email"} or copy and paste the link below in your browser <br /> </p>
+      </div> */}
     </main>
   );
 }
